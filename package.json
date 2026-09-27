@@ -1,0 +1,16 @@
+{
+  "name": "inconnuxdv2-proxy-render",
+  "version": "1.0.0",
+  "description": "Express HTTPS proxy (Render) bridging the INCONNU XD V2 frontend to the VPS (HTTP) backends",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+
